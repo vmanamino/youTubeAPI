@@ -1,0 +1,7 @@
+.turn li {
+    display: inline-block;
+}
+
+#next {
+    margin-left: 70%;
+}
